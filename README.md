@@ -2,13 +2,13 @@
 Makeine themes for [fish shell](https://fishshell.com/)
 
 # Themes
-## Komari
+## [Komari](./themes/Komari.theme)
 <img src="./previews/komari.png" />
 
-## Yakishio
+## [Yakishio](./themes/Yakishio.theme)
 <img src="./previews/yakishio.png" />
 
-## Yanami
+## [Yanami](./themes/Yanami.theme)
 <img src="./previews/yanami.png" />
 
 # Install & Use
