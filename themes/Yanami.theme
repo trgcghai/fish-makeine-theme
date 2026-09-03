@@ -1,0 +1,51 @@
+# name: 'Yanami'
+
+[light]
+# preferred_background: c8dcdc
+fish_color_normal 050504
+fish_color_autosuggestion 3c5078
+fish_color_command 3c508c
+fish_color_keyword 04f0c8
+fish_color_quote 64b4f0
+fish_color_redirection 3c5078
+fish_color_end f0f104
+fish_color_error f10504
+fish_color_param 050504
+fish_color_comment 3c5078
+fish_color_operator 3c508c
+fish_color_escape 64b4f0
+fish_color_cwd 050504
+fish_color_cwd_root f10504
+fish_color_host 3c5078
+fish_color_host_remote 3c508c
+fish_color_user 050504
+fish_color_match --background=f0f104 --foreground=050504
+fish_color_selection --background=c8dcdc --foreground=050504
+
+[dark]
+# preferred_background: 050504
+fish_color_normal c8dcdc
+fish_color_autosuggestion 3c5078
+fish_color_command 04f0c8
+fish_color_keyword 64b4f0
+fish_color_quote 64b4f0
+fish_color_redirection 3c5078
+fish_color_end f0f104
+fish_color_error f10504
+fish_color_param c8dcdc
+fish_color_comment 3c5078
+fish_color_operator 3c508c
+fish_color_escape 64b4f0
+fish_color_cwd c8dcdc
+fish_color_cwd_root f10504
+fish_color_host c8dcdc
+fish_color_host_remote 64b4f0
+fish_color_user c8dcdc
+fish_color_match --background=f0f104 --foreground=050504
+fish_color_selection --background=3c508c --foreground=c8dcdc
+
+[unknown]
+fish_color_normal --reset
+fish_color_autosuggestion brblack
+fish_color_cancel -r
+fish_color_command --reset

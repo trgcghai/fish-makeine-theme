@@ -1,0 +1,51 @@
+# name: 'Yakishio'
+
+[light]
+# preferred_background: c8dcdc
+fish_color_normal 050504
+fish_color_autosuggestion 503c3c
+fish_color_command 64b428
+fish_color_keyword 140000
+fish_color_quote dcb48c
+fish_color_redirection 503c3c
+fish_color_end 64b428
+fish_color_error f10504
+fish_color_param 050504
+fish_color_comment 503c3c
+fish_color_operator f0f104
+fish_color_escape dcb48c
+fish_color_cwd 050504
+fish_color_cwd_root f10504
+fish_color_host 503c3c
+fish_color_host_remote 140000
+fish_color_user 050504
+fish_color_match --background=f0f104 --foreground=050504
+fish_color_selection --background=c8dcdc --foreground=050504
+
+[dark]
+# preferred_background: 050504
+fish_color_normal c8dcdc
+fish_color_autosuggestion 503c3c
+fish_color_command 64b428
+fish_color_keyword dcb48c
+fish_color_quote dcb48c
+fish_color_redirection 503c3c
+fish_color_end 64b428
+fish_color_error f10504
+fish_color_param c8dcdc
+fish_color_comment 503c3c
+fish_color_operator f0f104
+fish_color_escape dcb48c
+fish_color_cwd c8dcdc
+fish_color_cwd_root f10504
+fish_color_host c8dcdc
+fish_color_host_remote dcb48c
+fish_color_user c8dcdc
+fish_color_match --background=f0f104 --foreground=050504
+fish_color_selection --background=503c3c --foreground=c8dcdc
+
+[unknown]
+fish_color_normal --reset
+fish_color_autosuggestion brblack
+fish_color_cancel -r
+fish_color_command --reset
